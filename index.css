@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+    justify-content: center;
+    justify-items: center;
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: cursive;
+    color: chocolate;
+    
+}
+
+#con-1{
+    text-align: center;
+    margin: 200px 200px;
+}
+
+#con-2{
+    text-align: center;
+    margin-top: 350px;
+    
+}
+ 
+#increase ,#reset,#decrease{
+ font-size: 25px;
+ border-color: brown;
+ border-style: double;
+ border-radius: 50rem;
+ color:purple;
+ cursor: pointer;
+}
+
+#counter{
+    font-size: 40px;
+    background-color: white;
+    width: 300px;
+    margin-left: 405px;
+border: 2px solid black;
+    border-radius: 5px;
+    border-color: brown;
+  box-sizing: border-box;
+  color: blueviolet;
+}
