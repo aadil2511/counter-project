@@ -12,7 +12,7 @@ h1{
     font-size: 40px;
     background-color: white;
     width: 300px;
-    margin-left: 600px;
+    margin-left: 610px;
     margin-top: 200px;
 border: 2px solid black;
     border-radius: 5px;
@@ -26,7 +26,7 @@ border: 2px solid black;
  #btn{
     display: flex;
     justify-content: center;
-    margin-top: 210px;
+    margin-top: 10px;
  }
 #increase ,#reset,#decrease{
  font-size: 25px;
